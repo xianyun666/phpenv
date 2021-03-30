@@ -1,3 +1,6 @@
+BUG，建议等请去 Issue 
+
+
 phpEnv软件界面颜值超高，简洁优雅，完全绿色化，不需要安装vc环境，在同等软件中清新脱俗。
 
 Software interface appearance level is super high, simple and elegant, completely green, do not need to install vc environment, in the same software fresh and refined.
